@@ -5,35 +5,34 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<em>😊</em>
 
----
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-
-```
+<!--
+**社区主页**  
 
 
-📊 **This week I spent my time on** 
+[![Bilibili](https://img.shields.io/badge/dynamic/json?labelColor=FE7398&logo=bilibili&logoColor=white&label=哔哩哔哩&color=00aeec&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D26995758)](https://space.bilibili.com/26995758) -->
+<!-- [![Github Stars](https://img.shields.io/github/stars/shengxinjing?color=faf408&label=Github%20Star&logo=github)](https://github.com/shengxinjing) -->
+<!-- - [知乎](https://www.zhihu.com/people/woniuppp)-->
 
-```text
-⌚︎ Timezone: Asia/Calcutta
+[![walker0813's github stats](https://github-readme-stats.vercel.app/api?username=walker0813)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+<img height="150" src="https://cdn.jsdelivr.net/gh/shengxinjing/static/wechat.jpg" />
 
-💬 Languages: 
-JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+**shengxinjing/shengxinjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 
-💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
-
-```
 <!--END_SECTION:waka-->
 
