@@ -1,9 +1,6 @@
 <h2>🙏🏻, I'm Tim Walker! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <em>😊</em>
 
@@ -15,6 +12,8 @@
 <!-- [![Github Stars](https://img.shields.io/github/stars/shengxinjing?color=faf408&label=Github%20Star&logo=github)](https://github.com/shengxinjing) -->
 <!-- - [知乎](https://www.zhihu.com/people/woniuppp)-->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walker0813&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![walker0813's github stats](https://github-readme-stats.vercel.app/api?username=walker0813)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <img height="150" src="https://cdn.jsdelivr.net/gh/shengxinjing/static/wechat.jpg" />
